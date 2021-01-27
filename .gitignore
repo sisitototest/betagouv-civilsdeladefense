@@ -38,3 +38,5 @@ yarn-debug.log*
 coverage
 
 public/uploads/
+
+.DS_Store
